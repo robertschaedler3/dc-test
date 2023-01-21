@@ -1,0 +1,11 @@
+{
+    "CommandRunner": {
+        "commandArguments": {
+            "commandId": "test-1",
+            "arguments": "date",
+            "action": 3,
+            "singleLineTextResult": true,
+            "timeout": 0
+        }
+    }
+}
